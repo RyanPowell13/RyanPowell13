@@ -12,3 +12,4 @@
 
 <a href="https://ryanjamespowell.com/" target="_blank"><img src="./img/globe-solid.svg" width="100" height="50" hre></a>
 <a href="https://linkedin.com/in/12yanpowell" target="_blank"><img src="./img/linkedin-brands.svg" width="100" height="50" hre></a>
+<a href="mailto:ryan@ryanjamespowell.com" target="_blank"><img src="./img/envelope-solid.svg" width="100" height="50" hre></a>
