@@ -10,6 +10,5 @@
 
 ### Connect with me:
 
-[![Website](./img/globe-solid.svg)](https://ryanjamespowell.com/)
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-brands.svg)](https://linkedin.com/in/12yanpowell)
+<a href="https://ryanjamespowell.com/"><img src="./img/globe-solid.svg" width="200" height="100" hre></a>
+<a href="https://linkedin.com/in/12yanpowell"><img src="./img/linkedin-brands.svg" width="200" height="100" hre></a>
