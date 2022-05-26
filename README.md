@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-solid.svg)](https://ryanjamespowell.com/#gh-light-mode-only)
-[![website](./img/globe-solid.svg)](https://ryanjamespowell.com/#gh-dark-mode-only)
+[![Website](./img/globe-solid.svg)](https://ryanjamespowell.com/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-brands.svg)](https://linkedin.com/in/12yanpowell#gh-light-mode-only)
-[![website](./img/linkedin-brands.svg)](https://linkedin.com/in/12yanpowell#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-brands.svg)](https://linkedin.com/in/12yanpowell)
